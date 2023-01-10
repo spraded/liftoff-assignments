@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Family Tree Website
 ### Features
-Include Features here
+Role Access Management
+Family Tree Database
+Family Tree UI
+Site UI
+Chat with other users
 ### Technologies
-Include Technologies here
+Springboot
+Thymeleaf
+Bootstrap
+Java
+MySQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+More advanced SQL tasks
+How to set up user chats
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/4YeLWqGq/family-tree
